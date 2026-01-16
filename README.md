@@ -35,7 +35,7 @@ Take back control of your cloud storage.
 
 | Экран входа | Файловый менеджер | Темная тема |
 | :---: | :---: | :---: |
-| <img src="assets/screen_login.png" width="250" alt="Login Screen"> | <img src="assets/screen_main.png" width="250" alt="Main Interface"> | <img src="assets/screen_dark.png" width="250" alt="Dark Mode"> |
+| <img src="assets/login_page.png" width="250" alt="Login Screen"> | <img src="assets/color_theme.png" width="250" alt="Main Interface"> | <img src="assets/dark_theme.png" width="250" alt="Dark Mode"> |
 
 ---
 
