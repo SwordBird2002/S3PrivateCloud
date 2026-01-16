@@ -26,8 +26,8 @@ Take back control of your cloud storage.
 
 | Платформа | Статус | Версия | Ссылка |
 | :--- | :---: | :---: | :--- |
-| **Android** | ![Android Build](https://img.shields.io/badge/Android-APK-green?logo=android) | v1.0.0 | [**Скачать .apk**](https://github.com/ваш_пользователь/репозиторий/releases/latest) |
-| **Windows** | ![Windows Build](https://img.shields.io/badge/Windows-EXE-blue?logo=windows) | v1.0.0 | [**Скачать .exe**][(https://github.com/SwordBird2002/S3PrivateCloud/releases/tag/v1.0.0/PrivateCloud.exe)] |
+| **Android** | ![Android Build](https://img.shields.io/badge/Android-APK-green?logo=android) | v1.0.0 | [**Скачать .apk**](https://github.com/SwordBird2002/S3PrivateCloud/releases) |
+| **Windows** | ![Windows Build](https://img.shields.io/badge/Windows-EXE-blue?logo=windows) | v1.0.0 | [**Скачать .exe**](https://github.com/SwordBird2002/S3PrivateCloud/releases) |
 
 ---
 
