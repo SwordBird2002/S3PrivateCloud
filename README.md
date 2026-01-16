@@ -28,7 +28,6 @@ Take back control of your cloud storage.
 | :--- | :---: | :---: | :--- |
 | **Android** | ![Android Build](https://img.shields.io/badge/Android-APK-green?logo=android) | v1.0.0 | [**Скачать .apk**](https://github.com/ваш_пользователь/репозиторий/releases/latest) |
 | **Windows** | ![Windows Build](https://img.shields.io/badge/Windows-EXE-blue?logo=windows) | v1.0.0 | [**Скачать .exe**](https://github.com/ваш_пользователь/репозиторий/releases/latest) |
-| **Web** | ![Web App](https://img.shields.io/badge/Web-PWA-orange?logo=google-chrome) | Live | [**Открыть в браузере**](#) |
 
 ---
 
@@ -59,14 +58,3 @@ Take back control of your cloud storage.
     *   Создание и удаление папок.
     *   Удаление файлов.
     *   Настройка "Стартовой папки" при входе.
-
----
-
-### 🛠 Установка и Запуск (для разработчиков)
-
-Если вы хотите запустить проект из исходного кода:
-
-**1. Клонируйте репозиторий:**
-```bash
-git clone https://github.com/ваш_пользователь/репозиторий.git
-cd репозиторий
